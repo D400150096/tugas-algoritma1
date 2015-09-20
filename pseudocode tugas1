@@ -1,0 +1,8 @@
+insialisasi variabel a,b,c,dan hasil
+value a =? (masukkan nilai a)
+value b =? (masukkan nilai b)
+value c =? (masukkan nilai c)
+value hasil =? (masukkan nilai hasil)
+(x1 & x2)=? (yang ditanya)
+diskriminan AX^2 + BX + c = 0 ---> a(x-x1)(x-X2)
+print(x1,x2
